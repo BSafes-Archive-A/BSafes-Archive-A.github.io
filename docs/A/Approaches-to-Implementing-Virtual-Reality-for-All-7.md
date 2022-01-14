@@ -67,6 +67,7 @@ Veličković, P., & Milovanović, M. (2021). Improvement of the Interaction Mode
 Yakubova, G., Kellems, R. O., Chen, B. B., & Cusworth, Z. (2021). Practitioners’ Attitudes and Perceptions Toward the Use of Augmented and Virtual Reality Technologies in the Education of Students With Disabilities. *Journal of Special Education Technology.* https://doi.org/10.1177/01626434211004445 
 
 Zhao, Y., Cutrell, E., Holtz, Christian, Morris, M R., Ofek, E., & Wilson, A.D. (2019). *SeeingVR: A Set of Tools to Make Virtual Reality More Accessible to People with Low Vision*. Proceedings at the 2019 CHI Conference, May 4-9, Glasgow, Scotland, UK. https://www.microsoft.com/en-us/research/uploads/prod/2019/01/SeeingVRchi2019.pdf
+
 ***
 
 #### Table of Contents
